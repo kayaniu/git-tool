@@ -43,6 +43,7 @@
     "lodash": "2.4.x",
     "restler": "3.0.x",
     "async": "~0.2.x",
-    "mkdirp": "~0.5.x"
+    "mkdirp": "~0.5.x",
+    "minimist": "1.1.x"
   }
 }
