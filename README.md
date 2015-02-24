@@ -22,6 +22,7 @@ Tool for managing multiple git repo folders
     * stash
       * _params_: -a [pop|drop|list|apply]
     * branch
+
 --select - use this flag to select which folders to operate on
 
 
