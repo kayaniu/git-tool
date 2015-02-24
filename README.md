@@ -23,7 +23,7 @@ Tool for managing multiple git repo folders
       * _params_: -a [pop|drop|list|apply]
     * branch
 
---select - use this flag to select which folders to operate on
+--select - use this flag to select which folders to operate on, if it is omitted, all repo folders will be selected.
 
 
 Your git repositories must reside under a common parent
