@@ -1,4 +1,4 @@
-# git-tool-uk
+# git-tool
 
 Tool for managing multiple git repo folders
 
@@ -12,15 +12,15 @@ Tool for managing multiple git repo folders
 ## Documentation
 *Usage*: `git-tool [operation] [params] [--select]`
 
-*operations*:
+* **operations**:
     * pull
     * checkout
-      *_params_: -b branchname
+      * _params_: -b branchname
     * push
     * fetch
     * status
     * stash
-      *_params_: -a [pop|drop|list|apply]
+      * _params_: -a [pop|drop|list|apply]
     * branch
 --select - use this flag to select which folders to operate on
 
