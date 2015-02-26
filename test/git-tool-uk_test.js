@@ -1,6 +1,6 @@
 'use strict';
 
-var git_tool_uk = require('../lib/git-tool-uk.js');
+var git_tool_uk = require('../lib/git-tool.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========

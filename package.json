@@ -20,7 +20,7 @@
       "url": "https://github.com/kayaniu/git-tool/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/git-tool-uk",
+  "main": "lib/git-tool",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -36,7 +36,7 @@
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-    "git-tool" : "lib/git-tool-uk.js"
+    "git-tool" : "bin/git-tool.js"
   },
   "dependencies": {
     "inquirer": "~0.8.x",
@@ -44,6 +44,7 @@
     "restler": "3.0.x",
     "async": "~0.2.x",
     "mkdirp": "~0.5.x",
-    "minimist": "1.1.x"
+    "minimist": "1.1.x",
+    "colors": "1.0.x"
   }
 }
